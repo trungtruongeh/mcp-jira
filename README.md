@@ -19,5 +19,5 @@ Get token via https://id.atlassian.com/manage-profile/security/api-tokens
 
 ## Integrate to Goose
 
-Follow: https://id.atlassian.com/manage-profile/security/api-tokens
+Follow: https://block.github.io/goose/docs/tutorials/custom-extensions#step-5-integrate-with-goose
 Or use `goose configure` if using goose cli
